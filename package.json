@@ -1,0 +1,35 @@
+{
+  "name": "carolscott",
+  "version": "1.0.0",
+  "description": "A Node.js module for carolscott calculations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarolScott3688977/carolscott"
+  },
+  "dependencies": {
+	  "johnyoung1": "1.0.0",
+	  "johnyoung1-js": "1.0.0",
+	  "ls-arrayv1": "1.0.0",
+	  "tai-array-generator": "1.0.0",
+	  "limonovp1": "1.0.0",
+	  "grommailpasha-module": "1.0.0",
+"morozz-string": "1.0.0",
+"spleef": "1.0.0",
+"dorothymoore-ini": "1.0.0",
+"loginovy": "1.0.0",
+"squarunblownett": "1.0.0",
+"loginovy-js": "1.0.0",
+    "suncalc": "^1.8.0",
+    "julian": "^1.2.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolScott3688977/carolscott/issues"
+  },
+  "homepage": "https://github.com/CarolScott3688977/carolscott#readme"
+}
